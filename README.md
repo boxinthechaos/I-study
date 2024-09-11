@@ -123,7 +123,7 @@ url 링크는 아래처럼
 <https://kr.piliapp.com/twitter-symbols/>
 아래 주소의 트위터 이모지를 복사 ➜ 붙여넣기 해서 사용하시면 됩니다.
 ### 단축키
-window10: 윈도우 키 + 마침표(.)
+window10: 윈도우 키 + 마침표(.)<br>
 mac: Command + Control + 스페이스 바
 
 ## 글자 색상
