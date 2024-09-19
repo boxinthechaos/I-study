@@ -80,10 +80,10 @@ url 링크는 아래처럼
 이미지 링크는 아래와 같이 작성할 수 있습니다.
 ```
 ![이미지 설명](이미지 링크)
-![고양이애옹](https://cdn.pixabay.com/photo/2019/03/13/08/29/cat-4052454_1280.jpg)
+![아잉네](https://raw.githubusercontent.com/boxinthechaos/Link1/refs/heads/main/krIOdh70-Fnvna7eL6hUAp4a_CWcQ9XTRhr3IkZ2coN_wqzB7Bp-x2Spk8c6-8FLNYJUaCk0wzjrEzyf6X82kA.webp)
 ```
 ![이미지 설명](이미지 링크)
-![고양이애옹](https://raw.githubusercontent.com/boxinthechaos/Link1/refs/heads/main/krIOdh70-Fnvna7eL6hUAp4a_CWcQ9XTRhr3IkZ2coN_wqzB7Bp-x2Spk8c6-8FLNYJUaCk0wzjrEzyf6X82kA.webp)
+![아잉네](htps://raw.githubusercontent.com/boxinthechaos/Link1/refs/heads/main/krIOdh70-Fnvna7eL6hUAp4a_CWcQ9XTRhr3IkZ2coN_wqzB7Bp-x2Spk8c6-8FLNYJUaCk0wzjrEzyf6X82kA.webp)
 이미지 크기는 10MB 이하만 가능하다. (gif 포함)
 사이즈 조절과 관련된 마크다운은 아직 적용이 되어있지 않은 것 같아요
 
